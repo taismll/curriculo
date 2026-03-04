@@ -1,0 +1,14 @@
+body {
+    font-family: 'Times New Roman', sans-serif;
+    color: #ffffff;
+    backround-color: #2b2a3b
+}
+
+.foto {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #f5f5dc;
+    margin-bottom: 10px;
+}
