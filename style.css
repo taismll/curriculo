@@ -1,8 +1,19 @@
-body {
+p{
     font-family: 'Times New Roman', sans-serif;
     color: #2d0241;
 }
-
+h1{
+    font-family: 'Times New Roman', sans-serif;
+    color: #2d0241;
+}
+p{
+    font-family: 'Times New Roman', sans-serif;
+    color: #2d0241;
+}
+p{
+    font-family: 'Times New Roman', sans-serif;
+    color: #2d0241;
+}
 .foto {
     width: 120px;
     height: 120px;
@@ -11,3 +22,4 @@ body {
     border: 3px solid #f5f5dc;
     margin-bottom: 10px;
 }
+
